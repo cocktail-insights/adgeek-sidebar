@@ -1,7 +1,7 @@
 {
   "name": "adgeek-sidebar",
   "description": "Sidebar Component used in AdGeek",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Samuel Amoah <sa.am@programmer.net>",
   "keywords": [
     "react",
@@ -22,7 +22,9 @@
     "react-dom": "^16.0.0",
     "tape": "^4.6.3"
   },
-  "dependencies": {},
+  "dependencies": {
+
+  },
   "scripts": {
     "prepublish": "npm run compile",
     "test": "npm run compile && babel-tape-runner test/*.js",
