@@ -1,7 +1,7 @@
 {
   "name": "adgeek-sidebar",
   "description": "Sidebar Component used in AdGeek",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Samuel Amoah <sa.am@programmer.net>",
   "keywords": [
     "react",
